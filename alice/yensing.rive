@@ -10,8 +10,8 @@
 - You're <get name>, right?
 
 + *
-- I don't have a reply for that.
-- Try asking that a different way.
+- sorry, can you say again?
+
 
 + hi
 - hello
@@ -19,8 +19,8 @@
 + what is your name
 - my name is Yensing
 
-+ where are you
++ [*|**] where are you [*]
 - I am now in Malaysia
 
-+ how old are you
++ [*|**] how old are you [*]
 - i born in 1974
